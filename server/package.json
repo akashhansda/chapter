@@ -39,7 +39,7 @@
     "dotenv-expand": "8.0.3",
     "express": "4.17.3",
     "express-response-errors": "1.0.5",
-    "graphql": "15.8.0",
+    "graphql": "16.3.0",
     "is-docker": "2.2.1",
     "jsonwebtoken": "8.5.1",
     "nodemailer": "6.7.3",
